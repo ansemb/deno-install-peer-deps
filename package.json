@@ -13,6 +13,9 @@
   "engines": {
     "node": ">=18"
   },
+  "workspaces": [
+    "packages/*"
+  ],
   "name": "with-react-native-web",
   "packageManager": "pnpm@8.8.0"
 }
