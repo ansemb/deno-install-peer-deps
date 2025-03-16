@@ -10,7 +10,7 @@ pnpm store prune
 time deno install
 ```
 
-````
+```
 ❯ time deno install
 //...
 ________________________________________________________
@@ -32,9 +32,9 @@ Executed in    1.20 secs    fish           external
 
 ```bash
 time pnpm install
-````
+```
 
-````
+```
 ❯ time pnpm install
 //...
 ________________________________________________________
@@ -45,8 +45,7 @@ Executed in   20.61 secs    fish           external
 
 cached:
 
-````
-
+```
 ❯ time pnpm install
 
 ---
@@ -54,7 +53,4 @@ cached:
 Executed in 868.30 millis fish external
 usr time 1.07 secs 0.12 millis 1.07 secs
 sys time 0.79 secs 3.24 millis 0.79 secs
-
-```
-
 ```
