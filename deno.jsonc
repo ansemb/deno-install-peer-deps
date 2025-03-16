@@ -1,0 +1,8 @@
+{
+  "unstable": [
+    "bare-node-builtins",
+    "detect-cjs",
+    "node-globals",
+    "sloppy-imports",
+  ],
+}
